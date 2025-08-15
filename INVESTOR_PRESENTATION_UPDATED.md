@@ -132,6 +132,27 @@ By Year 2, we project **300k monthly users**, **18k subscribers**, and over **$1
 This dual revenue model keeps margins high and scales globally.”
 
 ---
+## 🔮 Future Roadmap
+
+### **Phase 1: MVP Enhancement (Months 1-3)**
+- [ ] **Backend API Development**: Scalable cloud infrastructure
+- [ ] **Real-time Notifications**: Push notifications for urgent cases
+- [ ] **Payment Integration**: PayPal/GoPay/GooglePay integration
+- [ ] **Advanced AI Training**: Expanded symptom database
+
+### **Phase 2: Platform Expansion (Months 4-6)**
+- [ ] **Telemedicine Integration**: Video consultations
+- [ ] **Wearable Device Support**: IoT cat health monitoring
+- [ ] **Multi-language Support**: Czech, Spanish, French, German
+- [ ] **Insurance Integration**: Pet insurance claim automation
+
+### **Phase 3: Ecosystem Growth (Months 7-12)**
+- [ ] **Veterinary Practice Management**: Full practice software suite
+- [ ] **Cat Health Records**: Comprehensive medical history
+- [ ] **Community Features**: Cat owner social network
+- [ ] **AI Veterinary Assistant**: Professional diagnostic support tools
+
+---
 
 ## 📖 Glossary
 
